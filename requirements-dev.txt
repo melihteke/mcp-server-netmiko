@@ -1,0 +1,7 @@
+mcp[cli]
+netmiko
+pytest>=7.3.1
+pytest-mock>=3.10.0
+setuptools
+wheel
+twine
